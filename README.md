@@ -1,7 +1,7 @@
 ### React Exercise.
 Code along exercise. All credit goes to Samer Buna @pluralsight.
 
-Type ### 'npm start' to run the app. Type your github profile and click "Add Card".
+### Type 'npm start' to run the app. Type your github profile and click "Add Card".
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
